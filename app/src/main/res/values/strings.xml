@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android Fundamental submission 1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="up_comming_event">Upcomming</string>
+    <string name="finished">Finished</string>
+    <string name="event_title">Event Title</string>
+    <string name="dashboard">dashboard fragment</string>
+    <string name="detail_name">Detail Name</string>
+    <string name="penyelenggara">Penyelenggara:</string>
+    <string name="waktu_acara">Waktu Acara:</string>
+    <string name="quota">Quota:</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="isi_deskripsi">Lorem ipsum odor amet, consectetuer adipiscing elit. Placerat consectetur adipiscing id diam volutpat. Sociosqu volutpat inceptos nisl tempor efficitur rutrum. Ipsum nisl turpis feugiat; maximus penatibus pellentesque vehicula. Auctor velit ultricies vestibulum nulla arcu habitant curae. Tincidunt inceptos litora vulputate, sagittis curae congue sed in sem. Pulvinar lacinia volutpat, litora taciti lacus vehicula. Mi nibh sollicitudin nostra nec posuere pretium erat. Pulvinar velit interdum quis nulla facilisi in vitae ultricies viverra? Augue natoque dapibus ut dignissim mi. Aliquam eros montes fusce proin pretium vel venenatis? Ullamcorper nostra dapibus vulputate iaculis turpis dui elit purus. Convallis sed tincidunt vulputate proin mi. Gravida justo ornare morbi consequat commodo potenti. Lectus consequat eros a conubia et nec vehicula nunc. Dis nulla nostra ornare nibh mattis nulla. Primis ipsum elit per, pharetra convallis hac.</string>
+    <string name="register">Register</string>
+</resources>
