@@ -28,6 +28,17 @@
                 tools:srcCompat="@tools:sample/backgrounds/scenic"
                 />
 
+            <ImageButton
+                android:id="@+id/love_button"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:src="@drawable/ic_is_not_favorite"
+                android:contentDescription="@string/love_button"
+                app:layout_constraintTop_toBottomOf="@id/detailImg"
+                app:layout_constraintEnd_toEndOf="@id/detailImg"
+                android:layout_margin="8dp" />
+
             <TextView
                 android:id="@+id/detailTitle"
                 android:layout_width="wrap_content"
@@ -37,7 +48,7 @@
                 android:textStyle="bold"
                 android:textAlignment="center"
                 android:text="@string/detail_name"
-                app:layout_constraintTop_toBottomOf="@id/detailImg"
+                app:layout_constraintTop_toBottomOf="@id/love_button"
                 app:layout_constraintStart_toStartOf="@id/detailImg"
                 app:layout_constraintEnd_toEndOf="@id/detailImg"
                 />

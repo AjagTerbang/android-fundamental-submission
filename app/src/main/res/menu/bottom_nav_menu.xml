@@ -11,6 +11,10 @@
         android:icon="@drawable/ic_dashboard_black_24dp"
         android:title="@string/finished" />
 
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/ic_favorite_24"
+        android:title="@string/favorite" />
 
 
 </menu>

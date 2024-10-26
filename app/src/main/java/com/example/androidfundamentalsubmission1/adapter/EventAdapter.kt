@@ -15,6 +15,7 @@ import com.example.androidfundamentalsubmission1.model.eventUpcomming
 import com.example.androidfundamentalsubmission1.ui.dashboard.DashboardFragment
 
 class EventAdapter(val listEvent: List<eventUpcomming>): RecyclerView.Adapter<EventAdapter.EventViewHolder>() {
+
     class EventViewHolder(itemView: View): RecyclerView.ViewHolder(itemView) {
         val imgView: ImageView = itemView.findViewById(R.id.event_image)
         val titleView: TextView = itemView.findViewById(R.id.event_title)
@@ -42,6 +43,8 @@ class EventAdapter(val listEvent: List<eventUpcomming>): RecyclerView.Adapter<Ev
             }
             context.startActivity(intent)
         }
+
+
 
     }
 }

@@ -14,4 +14,10 @@
     <string name="deskripsi">Deskripsi</string>
     <string name="isi_deskripsi">Lorem ipsum odor amet, consectetuer adipiscing elit. Placerat consectetur adipiscing id diam volutpat. Sociosqu volutpat inceptos nisl tempor efficitur rutrum. Ipsum nisl turpis feugiat; maximus penatibus pellentesque vehicula. Auctor velit ultricies vestibulum nulla arcu habitant curae. Tincidunt inceptos litora vulputate, sagittis curae congue sed in sem. Pulvinar lacinia volutpat, litora taciti lacus vehicula. Mi nibh sollicitudin nostra nec posuere pretium erat. Pulvinar velit interdum quis nulla facilisi in vitae ultricies viverra? Augue natoque dapibus ut dignissim mi. Aliquam eros montes fusce proin pretium vel venenatis? Ullamcorper nostra dapibus vulputate iaculis turpis dui elit purus. Convallis sed tincidunt vulputate proin mi. Gravida justo ornare morbi consequat commodo potenti. Lectus consequat eros a conubia et nec vehicula nunc. Dis nulla nostra ornare nibh mattis nulla. Primis ipsum elit per, pharetra convallis hac.</string>
     <string name="register">Register</string>
+    <string name="favorite">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Settings</string>
+    <string name="love_button">favorite\n</string>
+    <string name="title_favorite">favorite\n</string>
 </resources>
