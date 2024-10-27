@@ -44,6 +44,7 @@ android {
 }
 
 dependencies {
+    implementation(libs.androidx.datastore.preferences)
     ksp("androidx.room:room-compiler:2.5.0")
     implementation (libs.kotlinx.coroutines.core.v152)
     implementation(libs.kotlinx.coroutines.android)
