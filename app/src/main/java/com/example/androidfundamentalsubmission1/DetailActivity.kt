@@ -77,7 +77,7 @@ class DetailActivity : AppCompatActivity(), View.OnClickListener {
             if (favoriteEvent != null) {
                 binding.loveButton.setImageResource(R.drawable.ic_is_favorite)
             } else {
-                binding.loveButton.setImageResource(R.drawable.ic_is_not_favorite)
+                binding.loveButton.setImageResource(R.drawable.ic_is_not_favorite_dark)
             }
         })
     }

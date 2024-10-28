@@ -74,6 +74,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onDestroy() {
         super.onDestroy()
-        AppDatabase.getDatabase(this).close()
+//        AppDatabase.getDatabase(this).close()
     }
 }
